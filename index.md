@@ -14,7 +14,7 @@ sections:
     url: docs/index.html
 - type: featuresblock
   template: featuresblock
-  section_id: features
+  section_id: destaques
   component: features_block.html
   featureslist:
   - title: Documentation
