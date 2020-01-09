@@ -3,8 +3,8 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Hero Section
-  section_id: hero
+  title: Banners de boas vindas
+  section_id: banner-inicio
   component: hero_block.html
   content: Bem vindo ao portal de conteúdo da B1, abaixo você encontra os conteúdos
     escritos por nossos colaboradores, fique a vontade <3
